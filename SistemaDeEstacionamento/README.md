@@ -5,6 +5,7 @@ Você foi contratado para construir um sistema para um estacionamento, que será
 ## Proposta
 
 Construir uma classe chamada "Estacionamento", conforme o diagrama abaixo:
+
 ![Diagrama de classe estacionamento](assets/diagrama_classe_estacionamento.png)
 
 A classe contém três variáveis, sendo:
